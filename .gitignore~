@@ -20,7 +20,6 @@ lib64
 
 # Installer logs
 pip-log.txt
-.project
 
 # Unit test / coverage reports
 .coverage
