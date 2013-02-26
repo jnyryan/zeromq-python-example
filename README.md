@@ -13,8 +13,10 @@ From http://drumcoder.co.uk/blog/2010/dec/05/simple-zeromq-ubuntu/
 	
 ## Work Queue Example
 
-From https://github.com/taotetek/blog_examples/blob/master/python_multiprocessing_with_zeromq/workqueue_example.py
-	
+From
+	http://taotetek.net/2011/02/02/python-multiprocessing-with-zeromq/ 
+	https://github.com/taotetek/blog_examples/blob/master/python_multiprocessing_with_zeromq/workqueue_example.py
+
 	./workqueue_example.py
 	
 ## Setup
