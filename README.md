@@ -2,17 +2,20 @@
 
 A playaround with zmq and python
 
-## Reference
+## listener / publisher example
 
-http://drumcoder.co.uk/blog/2010/dec/05/simple-zeromq-ubuntu/
-
-## Usage
+From http://drumcoder.co.uk/blog/2010/dec/05/simple-zeromq-ubuntu/
 
 	python ./zmq_listener.py
+	python ./zmq_publisher.py
+	python ./zmq_publisher.py
 	
-	run as many publishers as you want
-	python ./zmq_publisher.py
-	python ./zmq_publisher.py
+	
+## Work Queue Example
+
+From https://github.com/taotetek/blog_examples/blob/master/python_multiprocessing_with_zeromq/workqueue_example.py
+	
+	./workqueue_example.py
 	
 ## Setup
 
